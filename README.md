@@ -14,18 +14,33 @@ and gives the bits that are in both numbers
 
 # examples:
 math 2 + 2
+
 = 4
+
 math 3 / 2 
+
 = 1,5
+
 math 5 div 2
+
 = 2 : 1
+
 math 3 power 3
+
 = 27
+
 math 4 root 2
+
 = 2
+
 math 12 or 99
+
 = 111
+
 math 13 xor 69
+
 = 72
+
 math 70 and 14
+
 = 6
